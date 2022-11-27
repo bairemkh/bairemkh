@@ -1,5 +1,5 @@
-# 😈 About Me:
-
+<p align="center">👋 Hello there</p>
+<h1 align="center"> My name is bairem khedhri and you can call me Luci 😈 </h1>
 🔭 I’m currently I am currently an engineering student focusing on <b>mobile development</b>.<br>
 🌱 I'm currently learning about AI, AR, and VR.<br>
 🕴️ I'am a former mobile development team leader at togtog.io .
